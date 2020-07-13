@@ -2,7 +2,7 @@
 Simple way to download mp3 from youtube videos
 
 ## Pre-requisites
-[Docker Desktop](https://docs.docker.com/desktop/) ou [Docker Engine](https://docs.docker.com/engine/) installed
+[Docker Desktop](https://docs.docker.com/desktop/) or [Docker Engine](https://docs.docker.com/engine/) installed
 
 ## How to use
 Pull docker image
